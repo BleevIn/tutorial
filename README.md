@@ -5,8 +5,6 @@ Research and Study
 # setup environment 
 $ npm install -g ethereumjs-testrpc  
 $ npm install -g truffle  
-$ mkdir my-ico && cd my-ico  
-$ truffle init  
 $ npm install zeppelin-solidity  
 
 # run testrpc
